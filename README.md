@@ -1,3 +1,10 @@
+## Tutorial
+- Download rar file
+- extract file
+- open terminal
+- copy and run dependecies/devDependecies command
+- start project
+
 ## Dependencies
 pnpm : 
 ```
